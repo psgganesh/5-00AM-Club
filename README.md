@@ -1,4 +1,4 @@
-# 5:00am ted talks watched everyday
+# 5:00am activities everyday
 
 ## 21 - Sept - 2015
 * [Angela Lee Duckworth: The key to success? Grit](https://www.youtube.com/watch?v=H14bBuluwB8)
