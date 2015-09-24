@@ -6,7 +6,7 @@
 * [The Grit Scale - Penn University](http://www.sas.upenn.edu/~duckwort/images/12-item%20Grit%20Scale.05312011.pdf)
 
 ## 23 - Sept - 2015
-* [Ionic market]http://market.ionic.io/
+* [Ionic market] (http://market.ionic.io/)
 * [Online prototyping with Ionic components] (https://creator.ionic.io/)
 * [Build, Test, Emulate, Run Ionic apps.] (http://lab.ionic.io/)
 
