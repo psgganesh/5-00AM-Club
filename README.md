@@ -7,9 +7,9 @@
 
 ## 23 - Sept - 2015
 * [Ionic market]http://market.ionic.io/
-* [Online prototyping with Ionic components]https://creator.ionic.io/
-* [Build, Test, Emulate, Run Ionic apps.]http://lab.ionic.io/
+* [Online prototyping with Ionic components] (https://creator.ionic.io/)
+* [Build, Test, Emulate, Run Ionic apps.] (http://lab.ionic.io/)
 
 ## 24 - Sept - 2015
-* [011: Angela Duckworth, What Is Grit and How Can You Learn It?]https://www.youtube.com/watch?v=vxkUv5PKano
-* [The toolbox for php dev. sandbox]http://zinya.ellipsonic.com/the-toolbox-for-devs/
+* [011: Angela Duckworth, What Is Grit and How Can You Learn It] (https://www.youtube.com/watch?v=vxkUv5PKano)
+* [The toolbox for php dev. sandbox] (http://zinya.ellipsonic.com/the-toolbox-for-devs/)
