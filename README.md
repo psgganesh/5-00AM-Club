@@ -13,3 +13,10 @@
 ## 24 - Sept - 2015
 * [011: Angela Duckworth, What Is Grit and How Can You Learn It] (https://www.youtube.com/watch?v=vxkUv5PKano)
 * [The toolbox for php dev. sandbox] (http://zinya.ellipsonic.com/the-toolbox-for-devs/)
+
+## 25 - Sept - 2015
+* [Windows 10 - Setting up Laravel Homestead and Laravel 5.1 on Windows 10 with Homestead] (https://www.youtube.com/watch?v=S3kaQDFJiis)
+* [Windows 10 + Vagrant + Virtualbox + Homestead] (https://laracasts.com/discuss/channels/general-discussion/windows-10-vagrant-virtualbox-homestead)
+* [Homestead has already been initialized] (https://laracasts.com/discuss/channels/general-discussion/homestead-has-already-been-initialized?page=1)
+* [Create multiple sites on Homestead 2.0] (https://laracasts.com/discuss/channels/requests/create-multiple-sites-on-homestead-20?page=1)
+* [Can I use Homestead as a production environment?] (https://laracasts.com/discuss/channels/tips/can-i-use-homestead-as-a-production-enviroment)
