@@ -21,15 +21,17 @@
 * [Create multiple sites on Homestead 2.0] (https://laracasts.com/discuss/channels/requests/create-multiple-sites-on-homestead-20?page=1)
 * [Can I use Homestead as a production environment?] (https://laracasts.com/discuss/channels/tips/can-i-use-homestead-as-a-production-enviroment)
 
-## 26 - Sept - 2015
+## 29 - Sept - 2015
 * [Raag Vibhas - Morning Raga - Aalap] (https://www.youtube.com/watch?v=YAt6jW8QvJE)
 * [Penflip - collaborative writing and version control] (https://www.penflip.com/)
 * [(LEMP) Development VM With Vagrant] (https://vesselinv.com/lemp-with-vagrant/)
 * [Vagrant default name] (http://stackoverflow.com/questions/17845637/vagrant-default-name)
 * [25+ Free and Sought-After jQuery Plugins] (http://designmodo.com/free-jquery-plugins)
 
-## 27 - Sept - 2015
+## 30 - Sept - 2015
 * [10 Pro Tips to a Smarter Design Process] (http://designmodo.com/design-process-tips/)
 * [UX Pin] (http://studio.uxpin.com/ebooks/ux-design-trends-2015-2016-digital-products/)
 * [Lightning Design System] (https://www.lightningdesignsystem.com/)
 * [Github - Lightning Design System] (https://github.com/psgganesh/design-system)
+
+
