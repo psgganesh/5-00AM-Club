@@ -70,4 +70,17 @@
 * [Laravel Errors & Logging] (http://laravel.com/docs/5.1/errors)
 * [Laravel middleware] (http://laravel.com/docs/5.1/middleware)
 * [Laravel Logs, Queries and Timelines] (https://laracasts.com/lessons/logs-queries-timelines)
-* [Sparkplug] (https://github.com/psgganesh/sparkplug)
+* [Started Sparkplug] (https://github.com/psgganesh/sparkplug)
+
+# 09 - Oct - 2015
+* [Terminal color changes for linux terms and vagrant boxes] (http://askubuntu.com/questions/39731/terminal-colors-not-working)
+* [Using localized 500 error pages with nginx] (http://devblog.springest.com/using-localized-500-error-pages-with-nginx/)
+* ["composer update" vs "composer install"] (https://adamcod.es/2013/03/07/composer-install-vs-composer-update.html)
+
+# 12 - Oct - 2015
+* [Icon Fonts] (http://weloveiconfonts.com/)
+* [Loggly - Mine tons of log data Airbrake(Alt)] (https://www.loggly.com/plans-and-pricing/)
+* [Creating Laravel packages] (http://www.amitavroy.com/justread/content/articles/developing-package-laravel-51-%E2%80%93-part-1)
+
+# 13 - Oct - 2015
+* Worked on drinkwhat release during this hour
