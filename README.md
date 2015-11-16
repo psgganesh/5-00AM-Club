@@ -84,3 +84,5 @@
 
 # 13 - Oct - 2015
 * Worked on drinkwhat release during this hour
+* [Habitca - habit trainer] (https://habitica.com/static/front)
+* [ProcessFlow] (https://www.process.st/product/)
