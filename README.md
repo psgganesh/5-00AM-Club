@@ -86,3 +86,14 @@
 * Worked on drinkwhat release during this hour
 * [Habitca - habit trainer] (https://habitica.com/static/front)
 * [ProcessFlow] (https://www.process.st/product/)
+
+
+# 02 - Oct - 2016
+* [Foundations of Taoist Practice] (http://www.holybooks.com/wp-content/uploads/Foundations-of-Taoist-Practice.pdf)
+* [Growing psyhedelic plants for Shamanism] (http://www.holybooks.com/wp-content/uploads/psychedelic_shamanism.pdf)
+* [Techniques of Modern Shamanism Vol 1] (http://www.holybooks.com/wp-content/uploads/Techniques-of-Modern-Shamanism-vol-1-Walking-Between-The-Worlds.pdf)
+* [Techniques of Modern Shamanism Vol 2] (http://www.holybooks.com/wp-content/uploads/Techniques-of-Modern-Shamanism-vol-2-Walking-Between-The-Worlds.pdf)
+* [Techniques of Modern Shamanism Vol 3] (http://www.holybooks.com/wp-content/uploads/Techniques-of-Modern-Shamanism-vol-3-Walking-Between-The-Worlds.pdf)
+* [Nagulism] (http://www.holybooks.com/wp-content/uploads/Nagualism1.pdf)
+* [Ten Principal Upanishads] (http://www.holybooks.com/wp-content/uploads/The-Ten-Principal-Upanishads.pdf)
+* [Mandukya Upanishad] (http://www.holybooks.com/wp-content/uploads/Mandukya-Upanishad-An-ancient-Sanskrit-text-on-the-nature-of-Reality.pdf)
