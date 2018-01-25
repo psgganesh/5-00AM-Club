@@ -34,7 +34,7 @@
 * [Lightning Design System] (https://www.lightningdesignsystem.com/)
 * [Github - Lightning Design System] (https://github.com/psgganesh/design-system)
 
-# 01 - Oct - 2015
+## 01 - Oct - 2015
 * [Completely removing Node.js and Npm] (http://hungred.com/how-to/completely-removing-nodejs-npm/)
 * [How to clear cached memory on ubuntu] (http://www.ubuntugeek.com/how-to-clear-cached-memory-on-ubuntu.html)
 * [Creating your first Composer/Packagist package] (http://blog.grossi.io/2013/creating-your-first-composer-packagist-package/)
@@ -42,7 +42,7 @@
 * [Set Up Command Aliases in Linux/Ubuntu/Debian] (http://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/)
 * [Installing Node.js From Source on Ubuntu 14.04] (https://www.vultr.com/docs/installing-node-js-from-source-on-ubuntu-14-04)
 
-# 02 - Oct - 2015
+## 02 - Oct - 2015
 * [JointJS] (http://www.jointjs.com/demos/erd)
 * [Flow based programming for PHP] (http://bergie.iki.fi/blog/flow-based_programming_for_php/)
 * [Createjs] (http://www.createjs.com/)
@@ -53,42 +53,42 @@
 * [The modular backend platform for web developers] (https://stamplay.com/)
 * [Secure, Manage & Extend your APIs and Microservices] (https://getkong.org/)
 
-# 05 - Oct - 2015
+## 05 - Oct - 2015
 * [Green sock animation platform] (http://greensock.com/)
 * [SVG animation with GreenSock] (https://www.august.com.au/blog/svg-animation-with-greensock/)
 * [Defining Design] (https://medium.com/hh-design/defining-the-big-d-afc856b4b8d)
 
-# 06 - Oct -2015
+## 06 - Oct -2015
 * Only guidedmind production release during this hour
 
-# 07 - Oct - 2015
+## 07 - Oct - 2015
 * [Status Pages] (https://better-error-pages.statuspage.io/)
 * [Error pages and messages] (https://http.cat/)
 
-# 08 - Oct - 2015
+## 08 - Oct - 2015
 * [What's New in Laravel 5.1] (https://laracasts.com/series/whats-new-in-laravel-5-1)
 * [Laravel Errors & Logging] (http://laravel.com/docs/5.1/errors)
 * [Laravel middleware] (http://laravel.com/docs/5.1/middleware)
 * [Laravel Logs, Queries and Timelines] (https://laracasts.com/lessons/logs-queries-timelines)
 * [Started Sparkplug] (https://github.com/psgganesh/sparkplug)
 
-# 09 - Oct - 2015
+## 09 - Oct - 2015
 * [Terminal color changes for linux terms and vagrant boxes] (http://askubuntu.com/questions/39731/terminal-colors-not-working)
 * [Using localized 500 error pages with nginx] (http://devblog.springest.com/using-localized-500-error-pages-with-nginx/)
 * ["composer update" vs "composer install"] (https://adamcod.es/2013/03/07/composer-install-vs-composer-update.html)
 
-# 12 - Oct - 2015
+## 12 - Oct - 2015
 * [Icon Fonts] (http://weloveiconfonts.com/)
 * [Loggly - Mine tons of log data Airbrake(Alt)] (https://www.loggly.com/plans-and-pricing/)
 * [Creating Laravel packages] (http://www.amitavroy.com/justread/content/articles/developing-package-laravel-51-%E2%80%93-part-1)
 
-# 13 - Oct - 2015
+## 13 - Oct - 2015
 * Worked on drinkwhat release during this hour
 * [Habitca - habit trainer] (https://habitica.com/static/front)
 * [ProcessFlow] (https://www.process.st/product/)
 
 
-# 02 - Oct - 2016
+## 02 - Oct - 2016
 * [Foundations of Taoist Practice] (http://www.holybooks.com/wp-content/uploads/Foundations-of-Taoist-Practice.pdf)
 * [Growing psyhedelic plants for Shamanism] (http://www.holybooks.com/wp-content/uploads/psychedelic_shamanism.pdf)
 * [Techniques of Modern Shamanism Vol 1] (http://www.holybooks.com/wp-content/uploads/Techniques-of-Modern-Shamanism-vol-1-Walking-Between-The-Worlds.pdf)
